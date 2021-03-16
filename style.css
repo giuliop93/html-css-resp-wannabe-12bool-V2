@@ -1,0 +1,36 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.container {
+  
+}
+
+.row {
+  margin: auto;
+}
+
+.clearfix::after {
+  display: table;
+  content: '';
+  clear: both;
+}
+
+.title {
+  text-align: center;
+}
+
+.acasatua {
+  width: 40%;
+}
+
+.maps {
+  height: 100px;
+  text-align: center;
+}
+
+/* .left {
+  float: left;
+} 
