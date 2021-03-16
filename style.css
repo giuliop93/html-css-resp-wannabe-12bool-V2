@@ -5,11 +5,12 @@
 }
 
 .container {
-  
+  width: 1024px;
+  margin: 0 auto;
 }
 
 .row {
-  margin: auto;
+  
 }
 
 .clearfix::after {
@@ -20,10 +21,6 @@
 
 .title {
   text-align: center;
-}
-
-.acasatua {
-  width: 40%;
 }
 
 .maps {
